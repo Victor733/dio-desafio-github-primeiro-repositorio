@@ -1,4 +1,4 @@
-# Repositório dos meus links de estudo de antigamente.
+# Repositório dos meus links de estudo.
 Repositório criado por Victor Muza.
 
 Olá, meu nome é Victor tenho 19 Anos e estou cursando Ciencia da Computação. 
