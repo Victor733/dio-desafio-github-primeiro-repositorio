@@ -1,6 +1,17 @@
-# Repositório do Desafio de Projeto sobre Git/ GitHub da DIO
-Repositório criado para o Desafio de Projeto
+# Repositório dos meus links de estudo de antigamente.
+Repositório criado por Victor Muza.
+
+Olá, meu nome é Victor tenho 19 Anos e estou cursando Ciencia da Computação. 
+Vou linkar alguns temas que eu gosto sobre tecnologia aqui a baixo.
+
+##Conhecimentos de Linguagem de Programação
+Java, JavaScript,  
 
 
-## Links Úteis 
-[Sintaxe Básica do Markdown](https://www.markdownguide.org/basic-syntax/)
+## Links que eu utilizo.
+
+[O que é computação quântica](https://aws.amazon.com/pt/what-is/quantum-computing/#seo-faq-pairs#what-is-qc)
+
+[Introdução ao Git](https://learn.microsoft.com/pt-br/training/modules/intro-to-git/)
+
+[Introdução ao GItHub](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
