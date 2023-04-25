@@ -5,7 +5,8 @@ Olá, meu nome é Victor tenho 19 Anos e estou cursando Ciencia da Computação.
 Vou linkar alguns temas que eu gosto sobre tecnologia aqui a baixo.
 
 ##Conhecimentos de Linguagem de Programação
-Java, JavaScript,  
+
+Java, JavaScript, HTML,CSS e C.
 
 
 ## Links que eu utilizo.
@@ -14,4 +15,4 @@ Java, JavaScript,
 
 [Introdução ao Git](https://learn.microsoft.com/pt-br/training/modules/intro-to-git/)
 
-[Introdução ao GItHub](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
+[Introdução ao GitHub](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github/)
